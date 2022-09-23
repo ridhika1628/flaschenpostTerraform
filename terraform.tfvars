@@ -1,0 +1,6 @@
+location = "westeurope"
+resource_group_name = "sre-challenge-flashenpost"
+repl_type = "LRS"
+account_tier = "Standard"
+storage_account_name = "srechallengflashchenpost"
+access_tier = "Hot"
